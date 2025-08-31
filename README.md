@@ -1,6 +1,8 @@
 
 # 🚗 Car Price Prediction Model (Streamlit)
 
+View Live at:https://car-price-predictor-shazim.streamlit.app/
+
 A modern Streamlit web application that predicts used car prices using a pre-trained Linear Regression model
 
 ![Car Price Model Demo](static/images/demo.png)
